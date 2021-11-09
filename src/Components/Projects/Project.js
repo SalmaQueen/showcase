@@ -6,7 +6,7 @@ export default class Project extends Component {
     render() {
         return (
             <>
-            <div className="projects-container" id="projects" data-aos="fade-up" data-aos-offset="200">
+            <div className="projects-container mt-3" id="projects" data-aos="fade-up" data-aos-offset="200">
 <div className="wrapper row">
 <h1 className="text-center text-white  h1-skills" >Projects</h1>
 
@@ -22,7 +22,7 @@ export default class Project extends Component {
         <i class="fa fa-bank"></i>
         <h4>Boston Movie Festival</h4>
         <p>Developed with bootstrap </p>
-        <a href="https://boston-project.netlify.app/">view site</a>
+        <a href="https://confident-leavitt-a4baab.netlify.app/">view site</a>
     </div>
 </div>
 

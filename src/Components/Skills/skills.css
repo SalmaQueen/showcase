@@ -12,7 +12,7 @@
     margin-top: 2rem;
   } */
   .sects{
-    background-color:rgb(179, 169, 169);
+    background-color:rgb(247, 245, 245);
    /* height:90%;
    margin:auto;
     width:90%; */
@@ -24,8 +24,8 @@
   .edit-btn{
    
     border-radius:30px;
-    background-color:yellowgreen;
-    color:black;
+    background-color:green;
+    color:white;
     
     height:45px;
     padding: 2%;
@@ -50,8 +50,8 @@
 
   }
   
-  img{
-    width:80%;
+.img-s{
+    width:50%;
     clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
   }
   .box2{

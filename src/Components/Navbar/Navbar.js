@@ -18,6 +18,9 @@ export default class Navbar extends Component {
                     <a className="nav-link active text-white" href="#skills" style={{ fontSize:"1.5rem"}}>Skills</a>
                   </li>
                   <li className="nav-item">
+                    <a className="nav-link active text-white" href="#design" style={{ fontSize:"1.5rem"}}>Design</a>
+                  </li>
+                  <li className="nav-item">
                     <a className="nav-link active text-white" href="#projects" style={{ fontSize:"1.5rem"}}>Projects</a>
                   </li>
                   <li className="nav-item">

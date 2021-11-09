@@ -9,7 +9,7 @@ export default class Skills extends Component {
 
             <div className="sects row">
                <div className="box1 col-sm-12">
-                 <img src={salma} alt=""/>
+                 <img className="img-s" src={salma} alt=""/>
                  
                  <h4>Who's Salma?</h4>
                  <p>I'm a software Developer from Nairobi, Kenya.

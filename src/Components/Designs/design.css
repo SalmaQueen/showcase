@@ -1,0 +1,31 @@
+.context{
+    background-color:#6549d4 !important;
+    width: 100%;
+    height: 600px;
+    padding: 5%;
+    margin-bottom: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.context-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6549d4;
+    text-align: center;
+    color: aliceblue;
+    height: 70px;
+    width:  80%;
+    margin: auto;
+    margin-top: 2rem;
+}
+.btn{
+    color: white;
+}
+.btn :hover{
+    transform: translate(0, -5px);
+}
