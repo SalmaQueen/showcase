@@ -27,9 +27,10 @@
     background: linear-gradient(to right, #4A00E0, #8E2DE2); 
 
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
-clip-path: polygon(0 0, 82% 0, 100% 100%, 0 99%);
+/* clip-path: polygon(0 0, 82% 0, 100% 100%, 0 99%); */
+clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
     float: left;
     width: 50%;
     height: 600px;
@@ -56,9 +57,9 @@ clip-path: polygon(0 0, 82% 0, 100% 100%, 0 99%);
     margin-top: 1rem !important;
 
    } */
-   .left{
+   /* .left{
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%) !important;
-   }
+   } */
 
   }
   #eyes{
@@ -110,9 +111,10 @@ clip-path: polygon(0 0, 82% 0, 100% 100%, 0 99%);
 
   .edit-href{
     text-decoration: none;
+    /* display: block; */
   }
  
- 
+
   
   @keyframes animate {
       0%,

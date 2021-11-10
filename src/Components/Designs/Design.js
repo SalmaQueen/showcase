@@ -8,8 +8,8 @@ function Design() {
 
     const [active, setActive]=useState("First")
     return (
-        <div className="cotext" id="design" data-aos="fade-up" data-aos-offset="200">
-        <h1 className="text-center text-white pt-3" style={{textDecoration:"underline"}}>Designs</h1>
+        <div className="cotext" id="design" data-aos="fade-up" data-aos-offset="100">
+        <h1 className="text-center text-white pt-3" >Designs</h1>
         <div className="context-btn">
         <button className="btn" onClick={()=>setActive("First")}>First</button>
             <button className="btn" onClick={()=>setActive("Second")}>Second</button>

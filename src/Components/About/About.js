@@ -13,6 +13,7 @@ export default class About extends Component {
         <div className=" left  ">
          
         <h2 className="text-white pl-3">Fullstack Developer</h2>
+        <br/>
 
             <a href={resume} className="edit-href download-button" download> 
            
